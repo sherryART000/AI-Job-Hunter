@@ -98,11 +98,3 @@ AI-Job-Hunter-Pipeline/
 - Multi-language support.
 - Real-time job recommendation.
 
----
-
-## 👩‍💻 Author
-
-**Rou Adel**
-
-Faculty of Computers and Artificial Intelligence  
-Beni-Suef National University
